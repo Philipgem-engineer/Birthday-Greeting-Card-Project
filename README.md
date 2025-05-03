@@ -11,14 +11,31 @@ This is a microcontroller-based greeting card that plays a birthday tune and bli
 ## 🧰 Tools Used
 - Arduino IDE (C/C++)
 - Gerber viewer
-- PCB Design Software (e.g., EasyEDA, KiCad)
+- PCB Design Software (KiCad)
 
 ## 📁 File Structure
-birthday-greeting-card/
-├── firmware/
-│ └── Birhtday_Greetings_V3_ino_copy_202504121542_copy_20250502000147.ino # Arduino sketch
-├── pcb/
-│ └── Birthday_Greetings_05132025_Gerber.zip # Gerber files for PCB fabrication
-├── media/
-│ └── (Images and videos of prototype)
+
+<details>
+  <summary>birthday-greeting-card/</summary>
+  <ul>
+    <li>
+      firmware/
+      <ul>
+        <li>Birhtday_Greetings_V3_ino_copy_202504121542_copy_20250502000147.ino # Arduino sketch</li>
+      </ul>
+    </li>
+    <li>
+      pcb/
+      <ul>
+        <li>Birthday_Greetings_05132025_Gerber.zip # Gerber files for PCB fabrication</li>
+      </ul>
+    </li>
+    <li>
+      media/
+      <ul>
+        <li>(Images and videos of prototype)</li>
+      </ul>
+    </li>
+  </ul>
+</details>
 
