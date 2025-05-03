@@ -1,2 +1,18 @@
 # Birthday-Greeting-Card-Project
-An embedded system greeting card built around the ESP32-S2 Microcontroller, integrating a piezoelectric buzzer for audio, LEDs for candle effects, and an SSD1306 OLED display for text output, all on a custom-fabricated printed circuit board (PCB).
+# 🎂 Birthday Greeting Card – Embedded Systems Project
+
+This is a microcontroller-based greeting card that plays a birthday tune and blinks LEDs when powered. It features a custom-designed PCB and firmware written in Arduino C++.
+
+## 📦 Features
+- Plays sound using a piezo buzzer
+- Controls multiple LEDs in sync with music
+- Runs on ATtiny85 or similar microcontroller
+- Compact PCB layout (Gerber files included)
+
+## 🧰 Tools Used
+- Arduino IDE (C/C++)
+- Gerber viewer
+- PCB Design Software (e.g., EasyEDA, KiCad)
+
+## 📁 File Structure
+
