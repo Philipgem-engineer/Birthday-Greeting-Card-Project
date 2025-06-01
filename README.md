@@ -11,6 +11,8 @@ This is a microcontroller-based greeting card that plays a birthday tune and bli
 ## 🧰 Tools Used
 - Arduino IDE (C/C++)
 - PCB Design Software & Schematic(KiCad)
+  
+![Alt text]([URL_of_your_image](https://github.com/Philipgem-engineer/Birthday-Greeting-Card-Project/blob/main/Birthday%20Greetings%20Card%20Project/Media/60a1be46-b6f3-4d2e-8082-912dffdcb2ed.jpg))
 
 ## 📁 File Structure
 
