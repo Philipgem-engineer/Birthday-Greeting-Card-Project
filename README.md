@@ -14,6 +14,8 @@ This is a microcontroller-based greeting card that plays a birthday tune and bli
   
 ![Alt text](media/60a1be46-b6f3-4d2e-8082-912dffdcb2ed.jpg)
 
+<img src="media/60a1be46-b6f3-4d2e-8082-912dffdcb2ed.jpg" alt="60a1be46-b6f3-4d2e-8082-912dffdcb2ed" width="300"/>
+
 ## 📁 File Structure
 
 <details>
