@@ -5,13 +5,12 @@ This is a microcontroller-based greeting card that plays a birthday tune and bli
 ## 📦 Features
 - Plays sound using a piezo buzzer
 - Controls multiple LEDs in sync with music
-- Runs on ATtiny85 or similar microcontroller
+- Runs on ESP32 mini or similar microcontroller
 - Compact PCB layout (Gerber files included)
 
 ## 🧰 Tools Used
 - Arduino IDE (C/C++)
-- Gerber viewer
-- PCB Design Software (KiCad)
+- PCB Design Software & Schematic(KiCad)
 
 ## 📁 File Structure
 
