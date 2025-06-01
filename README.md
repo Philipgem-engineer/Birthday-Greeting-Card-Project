@@ -12,7 +12,7 @@ This is a microcontroller-based greeting card that plays a birthday tune and bli
 - Arduino IDE (C/C++)
 - PCB Design Software & Schematic(KiCad)
   
-![Alt text](Birthday Greetings Card Project/Media/60a1be46-b6f3-4d2e-8082-912dffdcb2ed.jpg)
+![Alt text](media/60a1be46-b6f3-4d2e-8082-912dffdcb2ed.jpg)
 
 ## 📁 File Structure
 
